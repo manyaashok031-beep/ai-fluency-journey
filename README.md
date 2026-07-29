@@ -20,7 +20,7 @@ This isn't just theory. This is me building real, applicable AI skills one day a
 | Day | Topic | Status |
 |---|---|---|
 | **Day 1** | 🧠 Advanced Prompt Engineering | ✅ Completed |
-| **Day 2** | ⚙️ How LLMs Actually Work | 🔄 Upcoming |
+| **Day 2** | ⚙️ How LLMs Actually Work | ✅ Completed |
 | **Day 3** | 🤖 AI Agents & Agentic Workflows | 🔄 Upcoming |
 | **Day 4** | 🛡️ AI Ethics, Safety & Responsible AI | 🔄 Upcoming |
 | **Day 5** | 🏗️ AI for Software Development | 🔄 Upcoming |
